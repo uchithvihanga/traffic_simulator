@@ -27,7 +27,7 @@ A desktop traffic simulation application built with Java Swing and Maven, provid
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/traffic-simulator.git
+git clone https://github.com/uchithvihanga/traffic-simulator.git
 cd traffic-simulator
 ```
 
